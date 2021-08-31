@@ -8,13 +8,12 @@ Simulation techniques can be a viable alternative if they can provide accurate p
 ## Dataset
 You can download dataset from [Excel file](https://github.com/acse-srm3018/FoamCO2Prediction/blob/main/Data.xlsx)
 
-The dataset includes 90 training and 10 testing data that will be used for training ANN models.
+The dataset includes 200 training and 15 testing data that will be used for training ANN models.
 
  Trainging dataset:
-    The training dataset is 90 of as input data and their corresponding pressure and saturation maps as the     targets. 
+    The training dataset is 200 set of parameters as input data and their corresponding RF and flow rate as the target. 
  Test dataset:
-    The training dataset is 10 of as input data and their corresponding pressure and saturation maps as the targets.
-
+    The training dataset is 15 set of parameters as input data and their corresponding RF and flow rate as the target.
 ## Models Comparsion and choosing
 
 We trained different CNN models to compare them and find the best ones based on their performance. The models we trained are Recurrent Residual-U-Net (RR U-Net) same as what has been used in this [work](https://github.com/soloist96/2D-recurrent-R-U-Net-surrogate-for-dynamic-flows) and attention residual recurrent U-net (A RR U-Net).
