@@ -217,6 +217,3 @@ plot(Y,'-or');
 hold on
 plot(Outputs,'-sb');
 hold off
-
-
-
