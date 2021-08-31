@@ -16,9 +16,9 @@ The dataset includes 200 training and 15 testing data that will be used for trai
     The training dataset is 15 set of parameters as input data and their corresponding RF and flow rate as the target.
 ## Models Comparsion and choosing
 
-We trained different CNN models to compare them and find the best ones based on their performance. The models we trained are Recurrent Residual-U-Net (RR U-Net) same as what has been used in this [work](https://github.com/soloist96/2D-recurrent-R-U-Net-surrogate-for-dynamic-flows) and attention residual recurrent U-net (A RR U-Net).
+We trained different models to compare them and find the best ones based on their performance. 
 
-The images of performance of different models on original datasets can be find under [images](https://github.com/acse-srm3018/DeeplearningProxy/tree/main/images) directory. We used transfer learning on pretrained models to develop our models. Based on the comparison of the accuracy and loss of the training and validation data, the ... and ... models were idetified as the best.
+The images of performance of different models on original datasets can be find under [images](https://github.com/acse-srm3018/FoamCO2Prediction/images) directory. Based on the comparison of the accuracy and loss of the training and validation data, the ... and ... models were idetified as the best.
 
 ## Model Properties 
 
