@@ -22,11 +22,7 @@ The images of performance of different models on original datasets can be find u
 
 ## Model Properties 
 
-A grid search was used to determine the optimal model hyperparameters; the hyperparameters which were chosen to be optimised were:
-- Learning rate
-- Batch Size
-
-The results of the grid search is given in the tables which can be found in the [tables](https://github.com/acse-2020/acse-4-x-ray-classification-inception/tree/main/tables) directory:
+The results of the grid search is given in the tables which can be found in the [supplementary files](https://github.com/acse-2020/FoamCO2Prediction) directory:
         
 ## Data Preprocessing
 
@@ -68,7 +64,10 @@ Also the articles published and can be found[here](https://link.springer.com/art
 
 #### Model architecture
 
-* Heinrich, M.P., Stille, M. and Buzug, T.M., 2018. Residual U-net convolutional neural network architecture for low-dose CT denoising. Current Directions in Biomedical Engineering, 4(1), pp.297-300.
-* Alom, M.Z., Yakopcic, C., Hasan, M., Taha, T.M. and Asari, V.K., 2019. Recurrent residual U-Net for medical image segmentation. Journal of Medical Imaging, 6(1), p.014006.
-* Azad, R., Asadi-Aghbolaghi, M., Fathy, M. and Escalera, S., 2019. Bi-directional ConvLSTM U-Net with densley connected convolutions. In Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops (pp. 0-0).
-* Jin, Z. L., Liu, Y. & Durlofsky, L. J. (2019), ‘Deep-learning-based reduced-order modeling for subsurface flow simulation’, arXiv preprint arXiv:1906.03729.
+* Andrianov, A., Farajzadeh, R., Mahmoodi Nick, M., Talanana, M., Zitha, P.L., 2012. Immiscible foam for enhancing oil recovery: bulk and porous media experiments. Industrial & Engineering Chemistry Research. 51(5), 2214-2226.
+* Ansari, H.R. 2014. Use seismic colored inversion and power law committee machine based on imperial competitive algorithm for improving porosity prediction in a heterogeneous reservoir. J Appl Geophys. 108, 61–8.
+* Atashnezhad, A., Wood, D.A., Fereidounpour, A., Khosravanian, R. 2014. Designing and optimizing deviated wellbore trajectories using novel particle swarm algorithms, Journal of Natural Gas Science and Engineering. 21, 1184-1204 
+* Atashpaz-Gargari E, Lucas C. 2007. Imperialist competitive algorithm: an algorithm for optimization inspired by imperialistic competition. Evolutionary computation,. CEC 2007. IEEE Congress on Evolutionary Computing. IEEE,  4661–4667. DOI: 10.1109/CEC.2007.4425083
+* Berger, P.D., Berger, C.H., Hsu, I.K., 2000. Anionic surfactants based on alkene sulfonic acid. U.S. Patent 6,043,391.
+* Broomhead, D.S., Lowe, D. 1988. Radial basis functions, multi-variable functional interpolation and adaptive networks. Royal Signals Radar Establishment, Malvern (United Kingdom), Memorandum No. 4148, 1–34. http://www.dtic.mil/dtic/tr/fulltext/u2/a196234.pdf 
+* Castillo O. 2012. Type-2 Fuzzy Logic in Intelligent Control Applications. Springer. ISBN 978-3-642-24663-0.
