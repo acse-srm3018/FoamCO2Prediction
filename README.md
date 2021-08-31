@@ -57,7 +57,7 @@ python -m sphinx docs html
 
 See the `docs` directory for the preliminary documentation provided that you should add to.
 
-Also the pdf file of report placed in [report](https://github.com/acse-srm3018/DeeplearningProxy/blob/main/SeyedehRahaMoosavi_ACSE9_FinalReport.pdf) file.
+Also the articles published and can be found[here](https://link.springer.com/article/10.1007/s11053-019-09459-8).
 
 
 ## Further investigation
