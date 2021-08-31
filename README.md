@@ -41,20 +41,6 @@ you can clone and open directories using
 git clone https://github.com/acse-srm3018/FoamCO2Prediction
 ```
 
-## Results
-
-The animation of pressure results from simulator is shown below.
-
-<img src="https://github.com/acse-srm3018/DeeplearningProxy/blob/main/animation/animation_pressure_true_simulator.gif" alt="Overview" width="60%" height="60%"></a>
-
-and the attention map from Attention RR U-Net model for different time from 90 days after production until 1800 days.
-
-<img src="https://github.com/acse-srm3018/DeeplearningProxy/blob/main/animation/animation_pressure_attention_pred.gif" alt="overview" width="60%" height="60%"></a>
-
-and saturation map animation
-
-<img src="https://github.com/acse-srm3018/DeeplearningProxy/blob/main/animation/animation_saturation.gif" alt="overview" width="60%" height="60%"></a>
-
 ## Unit testing
 
 To run the unit test suite
