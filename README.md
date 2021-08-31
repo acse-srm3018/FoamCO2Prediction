@@ -22,7 +22,7 @@ The images of performance of different models on original datasets can be find u
 
 ## Model Properties 
 
-The results of the grid search is given in the tables which can be found in the [supplementary files](https://github.com/acse-2020/FoamCO2Prediction) directory:
+The results of the grid search is given in the tables which can be found in the [supplementary files](https://github.com/acse-2020/FoamCO2Prediction) directory.
         
 ## Data Preprocessing
 
@@ -58,7 +58,7 @@ Also the articles published and can be found[here](https://link.springer.com/art
 
 ## Further investigation
 
-- Increasing number of data in dataset preparing more data using simulator or real labratory data .
+- Increasing number of data in dataset preparing more data using simulator or real labratory data.
 
 ## References
 
