@@ -35,29 +35,11 @@ Mean and standard deviation, Max and min of training and validation set were cal
 
 ## Installation
 
-It is recommended that you create a new virtual environment and install the required `Python` packages
-within your virtual environment.
+you can clone and open directories using
 
-If you wish to create an `Anaconda` environment, an `environment.yml` file has
-been provided from which you can create the `proxy-model` environment
-by running
-```bash
-conda env create -f environment.yml
 ```
-Within the base folder of this repository. If you wish to use some other virtual environment solution (or none at all),
-when in your environment ensure that all requirements are satisfied via
-```bash
-pip install -r requirements.txt
+git clone https://github.com/acse-srm3018/FoamCO2Prediction
 ```
-
-Whichever solution you decide upon, the package `models` should then be installed
-by running
-```bash
-pip install -e .
-```
-from within the base folder of this repository.
-
-**NB**: Update the libraries to their latest versions before training.
 
 ## Results
 
