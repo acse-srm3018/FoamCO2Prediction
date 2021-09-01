@@ -62,8 +62,6 @@ Also the articles published and can be found [here](https://link.springer.com/ar
 
 ## References
 
-#### Model architecture
-
 * Andrianov, A., Farajzadeh, R., Mahmoodi Nick, M., Talanana, M., Zitha, P.L., 2012. Immiscible foam for enhancing oil recovery: bulk and porous media experiments. Industrial & Engineering Chemistry Research. 51(5), 2214-2226.
 * Ansari, H.R. 2014. Use seismic colored inversion and power law committee machine based on imperial competitive algorithm for improving porosity prediction in a heterogeneous reservoir. J Appl Geophys. 108, 61–8.
 * Atashnezhad, A., Wood, D.A., Fereidounpour, A., Khosravanian, R. 2014. Designing and optimizing deviated wellbore trajectories using novel particle swarm algorithms, Journal of Natural Gas Science and Engineering. 21, 1184-1204 
