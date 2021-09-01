@@ -1,4 +1,7 @@
-# ANN-based prediction of performance of CO2-foam(published work in Natural Resources Research)
+# ANN-based prediction of performance of CO2-foam
+
+**Note**
+This project was published in [Natural Resources Research](https://link.springer.com/article/10.1007/s11053-019-09459-8).
 
 ## Project description
 CO2 injection into sub-surface oil reservoirs is a well-established technique for enhancing oil recovery. However, as CO2 is a gas and gases have low reservoir-sweep efficiency, injecting CO2 together with surfactant in the form of a foam can significantly improve its reservoir sweep efficiency. So, foam-CO2 flooding of petroleum reservoirs is a highly effective method able to enhance oil recovery from many reservoirs. Conducting laboratory experiments to assess the oil production and recovery factor performance associated with injecting foam-CO2 into specific oil reservoirs is expensive and time consuming. 
