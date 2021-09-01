@@ -1,4 +1,4 @@
-# Foam CO2 Prediction
+# ANN-based prediction of laboratory-scale performance of CO 2-foam flooding for improving oil recovery (published work in Natural Resources Research)
 
 ## Project description
 CO2 injection into sub-surface oil reservoirs is a well-established technique for enhancing oil recovery. However, as CO2 is a gas and gases have low reservoir-sweep efficiency, injecting CO2 together with surfactant in the form of a foam can significantly improve its reservoir sweep efficiency. So, foam-CO2 flooding of petroleum reservoirs is a highly effective method able to enhance oil recovery from many reservoirs. Conducting laboratory experiments to assess the oil production and recovery factor performance associated with injecting foam-CO2 into specific oil reservoirs is expensive and time consuming. 
