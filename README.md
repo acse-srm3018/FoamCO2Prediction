@@ -1,5 +1,4 @@
 # ANN-based prediction of performance of CO2-foam
-[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://gishub.org/geemap-colab)
 [![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Note:**
