@@ -1,6 +1,6 @@
 # ANN-based prediction of performance of CO2-foam
 
-**Note**
+**Note:**
 This project was published in [Natural Resources Research](https://link.springer.com/article/10.1007/s11053-019-09459-8).
 
 ## Project description
