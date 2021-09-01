@@ -18,7 +18,7 @@ The dataset includes 214 training and 15 testing data that will be used for trai
 
 We trained different models to compare them and find the best ones based on their performance. 
 
-The images of performance of different models on original datasets can be find under [images](https://github.com/acse-srm3018/FoamCO2Prediction/images) directory. Based on the comparison of the accuracy and loss of the training and validation data, the ... and ... models were idetified as the best.
+The images of performance of different models on original datasets can be find under [images](https://github.com/acse-srm3018/FoamCO2Prediction/tree/main/images) directory. Based on the comparison of the accuracy and loss of the training and validation data, the ... and ... models were idetified as the best.
 
 ## Model Properties 
 
