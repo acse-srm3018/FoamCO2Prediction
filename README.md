@@ -22,7 +22,7 @@ The images of performance of different models on original datasets can be find u
 
 ## Model Properties 
 
-The results of the grid search is given in the tables which can be found in the [supplementary files](https://github.com/acse-2020/FoamCO2Prediction) directory.
+The results of the grid search is given in the tables which can be found in the [supplementary files](https://github.com/acse-srm3018/FoamCO2Prediction/tree/main/supplemantaryfile) directory.
         
 ## Data Preprocessing
 
