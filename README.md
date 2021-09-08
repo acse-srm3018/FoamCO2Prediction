@@ -1,4 +1,4 @@
-# ANN-based prediction of performance of CO2-foam
+# ANN-based prediction of CO2-foam performance
 [![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Note:**
