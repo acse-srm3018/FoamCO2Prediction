@@ -36,7 +36,7 @@ Mean and standard deviation, Max and min of training and validation set were cal
 
 ## Installation
 
-you can clone and open directories using
+you can clone and open directories using:
 
 ```
 git clone https://github.com/acse-srm3018/FoamCO2Prediction
