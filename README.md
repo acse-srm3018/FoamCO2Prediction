@@ -56,7 +56,7 @@ To generate the documentation (in html format)
 python -m sphinx docs html
 ```
 
-See the `docs` directory for the preliminary documentation provided that you should add to.
+See the `docs` directory for the preliminary documentation provided that you should add to
 
 Also the articles published and can be found [here](https://link.springer.com/article/10.1007/s11053-019-09459-8).
 
