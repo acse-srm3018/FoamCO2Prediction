@@ -63,7 +63,7 @@ Also the articles published and can be found [here](https://link.springer.com/ar
 
 ## Further investigation
 
-- Increasing number of data in dataset preparing more data using simulator or real labratory data
+- Increasing number of data in dataset preparing more data using simulator or real labratory data.
 
 ## References
 
