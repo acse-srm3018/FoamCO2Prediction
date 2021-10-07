@@ -73,4 +73,4 @@ Also the articles published and can be found [here](https://link.springer.com/ar
 * Atashpaz-Gargari E, Lucas C. 2007. Imperialist competitive algorithm: an algorithm for optimization inspired by imperialistic competition. Evolutionary computation,. CEC 2007. IEEE Congress on Evolutionary Computing. IEEE,  4661–4667. DOI: 10.1109/CEC.2007.4425083
 * Berger, P.D., Berger, C.H., Hsu, I.K., 2000. Anionic surfactants based on alkene sulfonic acid. U.S. Patent 6,043,391.
 * Broomhead, D.S., Lowe, D. 1988. Radial basis functions, multi-variable functional interpolation and adaptive networks. Royal Signals Radar Establishment, Malvern (United Kingdom), Memorandum No. 4148, 1–34. http://www.dtic.mil/dtic/tr/fulltext/u2/a196234.pdf 
-* Castillo O. 2012. Type-2 Fuzzy Logic in Intelligent Control Applications. Springer. ISBN 978-3-642-24663-0.
+* Castillo O. 2012. Type-2 Fuzzy Logic in Intelligent Control Applications. Springer. ISBN 978-3-642-24663-0
